@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
-
 <p align="center"> 
  <a href="https://www.linkedin.com/in/dina-mostafa-136314224/">
    <img src="https://img.shields.io/badge/Linkedin-blue?style=badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
@@ -26,8 +25,7 @@ const aboutMe = {
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1u0KHhn5EPFUlySD2EljVqOYAjqdPzqcs/view?usp=sharing).
 
 
-### Languages
-
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
@@ -46,9 +44,15 @@ const aboutMe = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg"  title="arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 <br>
+
+
+
+
+
+
+
 
  <div align=center>
         <h1>Contribution Activity</h1>
