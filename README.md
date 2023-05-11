@@ -7,7 +7,6 @@
    <img src="https://img.shields.io/badge/Linkedin-blue?style=badge&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
  <a href="mailto:dinamustafa202020@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
 </p>
 
 
