@@ -21,7 +21,7 @@ const aboutMe = {
     hobbies: ["read", "write", "travel", "Learn psychology"]
 };
 ```
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1u0KHhn5EPFUlySD2EljVqOYAjqdPzqcs/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/folders/1UObOlIP9U2ecArXGGi12krWVUV5jh7zd).
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:
